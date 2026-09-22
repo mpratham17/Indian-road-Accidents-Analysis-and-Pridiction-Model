@@ -133,9 +133,9 @@ jupyter notebook indian_roads_analysis.ipynb
 
 ```
 Indian Road Accident Dataset/
-├── indian_roads_dataset.csv       ← raw dataset
-├── indian_roads_analysis.ipynb    ← main notebook
-├── requirements.txt               ← Python dependencies
-├── README.md                      ← this file
-└── project.docx                   ← full project report
+├── indian_roads_dataset.csv                                  ← raw dataset
+├── Pratham_Makhecha_Indian_Roads_Accidents_analysis.ipynb    ← main notebook
+├── requirements.txt                                          ← Python dependencies
+├── README.md                                                 ← this file
+└── Pratham_Makhecha_Indian_road_Accidents_report.docx        ← full project report
 ```
