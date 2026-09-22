@@ -15,7 +15,7 @@ Road accidents remain one of the leading causes of preventable deaths in India. 
 | Property | Detail |
 |---|---|
 | **File** | `indian_roads_dataset.csv` |
-| **Data Source** | `https://www.kaggle.com/datasets/sehaj1104/indian-road-accident-dataset-20222025` |
+| **Data Source** | https://www.kaggle.com/datasets/sehaj1104/indian-road-accident-dataset-20222025 |
 | **Rows** | 20,000 |
 | **Columns** | 24 |
 | **Cities** | Bangalore, Chennai, Chandigarh, Delhi, Hyderabad, Kolkata, Mumbai, Pune |
